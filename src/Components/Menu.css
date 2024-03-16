@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.allButtons{
+        display: flex;
+        margin-bottom: 100px;
+        margin-left: 40px;
+}
+.book {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    display: flex;
+
+}  
